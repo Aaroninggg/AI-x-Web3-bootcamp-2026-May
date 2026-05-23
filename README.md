@@ -35,7 +35,10 @@ AI-x-Web3-bootcamp-2026-May/
 │   ├── Day 1 - 2026年05月19日.md
 │   ├── weekly-goals-summary.md  # 1-4 周学习目标与成果总览
 │   └── ...
-├── hackathon/                   # 黑客松准备内容
+├── tasks/                       # ✅ 已完成的任务清单
+├── experiments/                 # 🔬 实验尝试与结果记录
+├── handbook-feedback/           # 📖 Handbook 阅读感想
+├── hackathon/                   # 🏆 黑客松准备内容
 │   └── idea.md
 ├── prompt.md                    # 学习助手 Prompt 模板
 ├── week-0-self-study.md         # Week 0 自学笔记：AI 基础概念
