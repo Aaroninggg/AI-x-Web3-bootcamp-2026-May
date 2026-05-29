@@ -1,0 +1,21 @@
+{
+  "name": "tx-explainer",
+  "version": "1.0.0",
+  "description": "区块链交易解释器 MVP - 输入交易哈希，输出自然语言交易解释",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "explain": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "viem": "^2.21.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.0.0"
+  }
+}
